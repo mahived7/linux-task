@@ -1,0 +1,13 @@
+.ssh/
+my_token.txt
+.bash_history
+.bashrc
+.profile
+.cache/
+.config/
+.viminfo
+.lesshst
+.motd_shown
+.gitconfig
+*.swp
+*.save
